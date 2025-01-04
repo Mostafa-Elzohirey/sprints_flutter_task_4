@@ -9,5 +9,5 @@ using the page_transition package I added a fading animation during the navigati
 
 [home screen readme](https://github.com/Mostafa-Elzohirey/sprints_flutter_task_2/blob/master/README.md).
 
-[signup screen readme](https://github.com/Mostafa-Elzohirey/sprints_flutter_task_3/blob/master/README.md)
+[signup screen readme](https://github.com/Mostafa-Elzohirey/sprints_flutter_task_3/blob/master/README.md).
 
